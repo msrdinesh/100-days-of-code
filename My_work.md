@@ -1,21 +1,20 @@
-# 100 Days Of ML Code - Example Log
+# 100 Days Of Code 
 
-## Use this as a base template. Create your own repository on GitHub and start logging your work daily!
+## Starting this on 6th July 2018
 
-### Day 0: February 29, 2016 (Example 1)
-##### (delete me or comment me out)
+# My previous knowledge before starting this
+I have completed the following courses
+1. Machine learning(Coursera,Stanford University)
+2. Deep learning speacilization(Coursera,Stanford University)
+3.Introduction to Python for Data Science(Data Camp)
+4. Deep learning in python(Data Camp)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+#### Day 0----- Date: July 6, 2018 ------ Day: Thirsday
+##### Intermdiate to Python for Data Science(Data Camp)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**:
 
-**Link to work:** [Calculator App](http://www.github.com)
+**Thoughts:** 
 
-### Day 1: February 30, 2016 (Example 2) 
+**Link to work:** 
 
-**Today's Progress**: I've gone through many exercises on KhanAcademy.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-[Find the Longest Word in a String](www.github.com)
