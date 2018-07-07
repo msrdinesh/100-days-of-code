@@ -19,14 +19,13 @@ I have completed the following courses
 **Link to work:** This is my statement of accomplishment https://www.datacamp.com/statement-of-accomplishment/course/8e025414725f512e2b0fd5692a1c4d5c18fdaec7
 
 #### Day 2----- Date: July 7, 2018 ------ Day: Saturday
-##### 
+##### Image Depth detection
 
-**Today's Progress**: 
+**Today's Progress**: I did not much work today. I tried figuring out what Mooc to do nex in datacamp. I with one of my friends decided to start a project in deep learning. Looking forward to start it tommorow
 
-**Thoughts:** 
+**Thoughts:**  The project is to detect depth detection of an image using a famous network architechure called U net. We want to write impletement the project using Keras frame work. We want to run the program in google colab as we dont have a good GPU to run our models
 
-**Link to work:** 
-
+**Link to work:** https://arxiv.org/pdf/1505.04597.pdf Here is the link to U net(Its not my work. My work is just googling Unet and downloading the paper.
 #### Day 3----- Date: July 8, 2018 ------ Day: Sunday
 ##### 
 
