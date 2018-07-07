@@ -25,7 +25,7 @@ I have completed the following courses
 
 **Thoughts:**  The project is to detect depth detection of an image using a famous network architechure called U net. We want to write impletement the project using Keras frame work. We want to run the program in google colab as we dont have a good GPU to run our models
 
-**Link to work:** https://arxiv.org/pdf/1505.04597.pdf Here is the link to U net(Its not my work. My work is just googling Unet and downloading the paper.
+**Link to work:** https://arxiv.org/pdf/1505.04597.pdf Here is the link to U net(Its not my work. My work is just googling Unet and downloading the paper)
 #### Day 3----- Date: July 8, 2018 ------ Day: Sunday
 ##### 
 
