@@ -27,13 +27,13 @@ I have completed the following courses
 
 **Link to work:** https://arxiv.org/pdf/1505.04597.pdf Here is the link to U net(Its not my work. My work is just googling Unet and downloading the paper)
 #### Day 3----- Date: July 8, 2018 ------ Day: Sunday
-##### 
+##### Python Data Science Toolbox (Part 1) Course
 
-**Today's Progress**: 
+**Today's Progress**: I have downloaded some basic must read papers in machine learning and some papers on recent research on image depth measurement. I have doen the course Python Data Science Toolbox(part1) course in datacamp.
 
-**Thoughts:** 
+**Thoughts:** From the course, I have learnt some basics to write functions in python. Difference between local,global and built in functions in python.dealing with parameters or arguments of funtions, writing nested funtions and error handling funtions. I have learnt quite a lot. But, regarding my reasearch papers stud, I could not read any paper because, I became afraid after seeing a lot of math and complexit involved in the papers. Looking forward to read research paper effecively from tommorow
 
-**Link to work:** 
+**Link to work:** Here my link to the course accomplishment:https://www.datacamp.com/statement-of-accomplishment/course/e39b3d1829c1e6c1dd7957671d36c69f33d711ce 
 
 #### Day 4----- Date: July 9, 2018 ------ Day: Monday
 ##### 
