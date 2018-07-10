@@ -36,13 +36,13 @@ I have completed the following courses
 **Link to work:** Here my link to the course accomplishment:https://www.datacamp.com/statement-of-accomplishment/course/e39b3d1829c1e6c1dd7957671d36c69f33d711ce 
 
 #### Day 4----- Date: July 9, 2018 ------ Day: Monday
-##### 
+##### Data Science Toolbox (Part 2) Course
 
-**Today's Progress**: 
+**Today's Progress**: I have completed the course Python Data Scinece Toolbox(part2) course in data camp and started the course importing Data in DataCamp
 
-**Thoughts:** 
+**Thoughts:** From the course, I have learnt about iterators,list and dict comprehensions and genrators. Regarding my project, I am still not confindent to start a project in machine learning.Hope I would figure out soon.
 
-**Link to work:** 
+**Link to work:** https://www.datacamp.com/statement-of-accomplishment/course/7ac1b3f04324c1c6bce154543dd4d76b98e5bab1
 
 #### Day 5----- Date: July 10, 2018 ------ Day: Tuesday
 ##### 
