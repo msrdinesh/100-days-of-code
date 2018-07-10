@@ -52,3 +52,77 @@ I have completed the following courses
 **Thoughts:** 
 
 **Link to work:** 
+#### Day 6----- Date: July 11, 2018 ------ Day: Wednesday
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+#### Day 7----- Date: July 12, 2018 ------ Day: Thirsday
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+#### Day 8----- Date: July 13, 2018 ------ Day: Wednesday
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+#### Day 9----- Date: July 14, 2018 ------ Day: Thirsday
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+#### Day 10----- Date: July 15, 2018 ------ Day: Friday
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+#### Day 11----- Date: July 16, 2018 ------ Day: Saturday
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+#### Day 12----- Date: July 17, 2018 ------ Day: Sunday
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+#### Day 13----- Date: July 18, 2018 ------ Day: Monday
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+#### Day 14----- Date: July 19, 2018 ------ Day: Tuesday
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
