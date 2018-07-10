@@ -45,13 +45,15 @@ I have completed the following courses
 **Link to work:** https://www.datacamp.com/statement-of-accomplishment/course/7ac1b3f04324c1c6bce154543dd4d76b98e5bab1
 
 #### Day 5----- Date: July 10, 2018 ------ Day: Tuesday
-##### 
+##### Importing Data in Python(part 1 and 2)
 
-**Today's Progress**: 
+**Today's Progress**: I have succesfully completed the two courses on importing Data with python for data science in python
 
-**Thoughts:** 
+**Thoughts:** I have learnt how to import flatfiles,textfiles and files of other formats, Writing SQL queries to get meaning ful data from relational databases. In the second part, I have learn pulling data from World wide web using pandas,request packages, pulling data from API's like twitter. It was quite  a  lot this day, hope thes concepts help me improve my career in data science.
 
-**Link to work:** 
+**Link to work:** Here are the links to the accomplishments
+Part 1:https://www.datacamp.com/statement-of-accomplishment/course/3c1d3c4dda481997ea06339c30e713da0c52b958
+part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1789a76117643b338922f5d0aa85
 #### Day 6----- Date: July 11, 2018 ------ Day: Wednesday
 ##### 
 
