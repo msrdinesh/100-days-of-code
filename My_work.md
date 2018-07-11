@@ -55,13 +55,13 @@ I have completed the following courses
 Part 1:https://www.datacamp.com/statement-of-accomplishment/course/3c1d3c4dda481997ea06339c30e713da0c52b958
 part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1789a76117643b338922f5d0aa85
 #### Day 6----- Date: July 11, 2018 ------ Day: Wednesday
-##### 
+##### Cleaning Data in Python Course
 
-**Today's Progress**: 
+**Today's Progress**: I have successfully completed the course,"Cleaning Data in Python" in data camp.
 
-**Thoughts:** 
+**Thoughts:** I have learnt some of the preprocessing techniques and packages that are helpfult to clean data before analysis.I have learn about inspecting data,tidying data,concepts of melting and pivoting,combining data sets,testing data for errors. 
 
-**Link to work:** 
+**Link to work:** Here is my statement of accomplishment of the course: https://www.datacamp.com/statement-of-accomplishment/course/39984a6342775408ffbc8a659e3ad0a2aed1629e
 #### Day 7----- Date: July 12, 2018 ------ Day: Thirsday
 ##### 
 
