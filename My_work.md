@@ -65,11 +65,11 @@ part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1
 #### Day 7----- Date: July 12, 2018 ------ Day: Thirsday
 ##### 
 
-**Today's Progress**: 
+**Today's Progress**: I have not done any course today. Started reading a book called "Machine Learning with ScikiLearn and Tensorflow".
 
-**Thoughts:** 
+**Thoughts:** The book is  very interesting. It helps to work on hands on projects to gain ecperience. The really love the way the author had conveyed the concepts. I have started first hands on work on book "Housing price dectectio". The whole code is written by author, I am just testing it.
 
-**Link to work:** 
+**Link to work:** Heres the link to the book: http://b-ok.xyz/book/2924532/5e9967
 #### Day 8----- Date: July 13, 2018 ------ Day: Wednesday
 ##### 
 
