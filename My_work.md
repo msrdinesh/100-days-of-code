@@ -71,13 +71,13 @@ part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1
 
 **Link to work:** Heres the link to the book: http://b-ok.xyz/book/2924532/5e9967
 #### Day 8----- Date: July 13, 2018 ------ Day: Wednesday
-##### 
+##### Introduction to Git for data science
 
-**Today's Progress**: 
+**Today's Progress**: I have completed the course "Introduction to Git for Data science" in data camp
 
-**Thoughts:** 
+**Thoughts:** From many days I have been trying to understad github. I am using it with even knowing about it. So I took this introductory course on git. I just got a brief idea of the power of git. I think I can improve if I practise more. Till now I did not even start any project. I am just looking at others codes(which I could hardly understand). I hope I may improve.
 
-**Link to work:** 
+**Link to work:** Here's my statement of accomplishment https://www.datacamp.com/statement-of-accomplishment/course/44be8a6f3ef5c76b2fb9e13fb0205f6011ca12aa 
 #### Day 9----- Date: July 14, 2018 ------ Day: Thirsday
 ##### 
 
