@@ -81,7 +81,7 @@ part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1
 #### Day 9----- Date: July 14, 2018 ------ Day: Thirsday
 ##### 
 
-**Today's Progress**: 
+**Today's Progress**: today
 
 **Thoughts:** 
 
