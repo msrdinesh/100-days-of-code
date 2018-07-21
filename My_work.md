@@ -78,12 +78,12 @@ part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1
 **Thoughts:** From many days I have been trying to understad github. I am using it with even knowing about it. So I took this introductory course on git. I just got a brief idea of the power of git. I think I can improve if I practise more. Till now I did not even start any project. I am just looking at others codes(which I could hardly understand). I hope I may improve.
 
 **Link to work:** Here's my statement of accomplishment https://www.datacamp.com/statement-of-accomplishment/course/44be8a6f3ef5c76b2fb9e13fb0205f6011ca12aa 
-#### Day 9----- Date: July 14, 2018 ------ Day: Thirsday
-##### 
+#### Day 9----- Date: July 21, 2018 ------ Day: Saturday
+##### Datacamp until "merging data with data science
 
-**Today's Progress**: today
+**Today's Progress**: I did not update my work from few days. From now I will try to keep on updating.
 
-**Thoughts:** 
+**Thoughts:** Ihave done until merging data with python in datacamp, which is the 10 course of 22 courses in the streak. I feel like I am diverting my learning curve away from machine learning, but I will complete this and go back again to machine learning. This may not be right entirely, but I will work hard to learn more
 
 **Link to work:** 
 #### Day 10----- Date: July 15, 2018 ------ Day: Friday
