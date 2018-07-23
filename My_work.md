@@ -87,11 +87,11 @@ part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1
 
 **Link to work:** 
 #### Day 10----- Date: July 15, 2018 ------ Day: Friday
-##### 
+##### Introduction to data bases in Python
 
-**Today's Progress**: 
+**Today's Progress**: I have completed the course introduction to data bases in python today
 
-**Thoughts:** 
+**Thoughts:** I came know how to write queries in SQL. It's boring, but I learned something out of it.
 
 **Link to work:** 
 #### Day 11----- Date: July 16, 2018 ------ Day: Saturday
