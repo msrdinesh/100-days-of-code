@@ -86,7 +86,7 @@ part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1
 **Thoughts:** Ihave done until merging data with python in datacamp, which is the 10 course of 22 courses in the streak. I feel like I am diverting my learning curve away from machine learning, but I will complete this and go back again to machine learning. This may not be right entirely, but I will work hard to learn more
 
 **Link to work:** 
-#### Day 10----- Date: July 15, 2018 ------ Day: Friday
+#### Day 10----- Date: July 22, 2018 ------ Day: Monday
 ##### Introduction to data bases in Python
 
 **Today's Progress**: I have completed the course introduction to data bases in python today
@@ -94,14 +94,14 @@ part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1
 **Thoughts:** I came know how to write queries in SQL. It's boring, but I learned something out of it.
 
 **Link to work:** 
-#### Day 11----- Date: July 16, 2018 ------ Day: Saturday
-##### 
+#### Day 11----- Date: July 23, 2018 ------ Day: Tuesday
+##### Introduction to data visualizaion with bokeh
 
-**Today's Progress**: 
+**Today's Progress**: I have completed the course on DataCamp.
 
-**Thoughts:** 
+**Thoughts:** I really got good practce using matplotlib for plotting the graphs to obtain useful insights from data. I cam to know about seaborn a very cool package for statistical data visualisation
 
-**Link to work:** 
+**Link to work:** i will stope putting links of certificates
 
 #### Day 12----- Date: July 17, 2018 ------ Day: Sunday
 ##### 
