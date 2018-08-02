@@ -103,12 +103,12 @@ part 2:https://www.datacamp.com/statement-of-accomplishment/course/efdee880f41a1
 
 **Link to work:** i will stope putting links of certificates
 
-#### Day 12----- Date: July 17, 2018 ------ Day: Sunday
-##### 
+#### Day 30----- Date: Augutst 2, 2018 ------ Day: Thirsday
+##### from now on I will update weekly
 
-**Today's Progress**: 
+**From last 15 days Progress**: I stopeed doing the python track from data camp,as it is boring and the concept learned is very less. So, I decided to learn algorithms and datastrutures from now on. Right now I am studying "Automatin the boring stuff with python course" the book is very interesting 
 
-**Thoughts:** 
+**Thoughts:** I cannot update this daily.. will update weekly once. But every day I am contributing 2-3 hours of time in coding. 
 
 **Link to work:** 
 
